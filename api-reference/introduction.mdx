@@ -1,10 +1,44 @@
 ---
-title: 'Introduction'
+title: 'Integration'
 description: 'Connect to our HealthByte API'
 ---
 
 
-## Welcome
+<Note>
+  Our AI model utilizes PubMed as a foundational knowledge base, which is critical for ensuring that the information provided is based on well-established medical research and data.
+</Note>
+
+APIs, are tools that allow different software applications to communicate with each other. 
+
+## How It Works 
+
+The process of integrating and utilizing the HealthByte API involves several key steps:
+
+<AccordionGroup>
+  <Accordion icon="user-circle" title="User Interaction">
+    When a user in your app or website poses a question related to the health topic, this triggers the next step.
+  </Accordion>
+
+</AccordionGroup>
+
+<AccordionGroup>
+  <Accordion icon="api" title="API Request">
+    Make a GET request to the HealthByte API with the user’s question. This is how you interface with our system to retrieve information.
+  </Accordion>
+</AccordionGroup>
+
+<AccordionGroup>
+  <Accordion icon="message-square" title="Receive Response">
+    After processing the question, HealthByte will make a POST request back to your app or website. We will deliver a concise, accurate answer tailored to the user’s query.
+  </Accordion>
+
+</AccordionGroup>
+
+
+
+This seamless flow ensures that users receive reliable, contextually appropriate information directly through your digital platform.
+
+
 
 
 
