@@ -5,7 +5,7 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.ico",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#d69e2e",  
     "light": "#6b21a8",    
@@ -55,7 +55,7 @@
       "group": "Resources",
       "pages": [
         "resources/faq",
-        "resources/privacy"
+        "resources/support"
       ]
     },
     {
