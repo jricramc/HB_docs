@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://healthbyte-ai.vercel.app/"
+    "url": "https://avocado-ai.vercel.app/"
   },
   "tabs": [
     {
@@ -41,7 +41,7 @@
     {
       "name": "Website",
       "icon": "globe",
-      "url": "https://healthbyte-ai.vercel.app/"
+      "url": "https://avocado-ai.vercel.app/"
     }
   ],
   "navigation": [
