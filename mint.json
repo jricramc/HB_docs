@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://avocado-ai.vercel.app/"
+    "url": "https://tryavocadohealth.com/"
   },
   "tabs": [
     {
@@ -41,7 +41,7 @@
     {
       "name": "Website",
       "icon": "globe",
-      "url": "https://avocado-ai.vercel.app/"
+      "url": "https://tryavocadohealth.com/"
     }
   ],
   "navigation": [
@@ -67,7 +67,6 @@
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
         "api-reference/endpoint/create"
       ]
     }
